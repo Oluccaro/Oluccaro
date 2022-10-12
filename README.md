@@ -6,7 +6,7 @@ Eagerly looking to dive into the tech world 🌐
 
 Studying front-end development (html, css, javascript (react, redux, D3.js)) at my freetime📝
 
-Currently learning relational database, linux and bash 🐧
+Currently learning relational database (postgreSQL), Java, linux and bash 🐧
 
 Already give a try to c++, pascal and python 👨‍💻 (and hope to continue studying)
  
