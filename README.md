@@ -4,9 +4,11 @@ Physics graduate that recently found out it's passion for coding 💻
 
 Eagerly looking to dive into the tech world 🌐 
 
-Studying front-end development (html, css, javascript (react, redux, D3.js)) at my freetime📝
+* Full Stack web Development (PHP, JavaScript, Html, Css...)
 
-Currently learning relational database (postgreSQL), Java, linux and bash 🐧
+* Database (database modeling, MySQL ...)
+
+* Currently learning relational database (postgreSQL), Java 🐧
 
 Already give a try to c++, pascal and python 👨‍💻 (and hope to continue studying)
  
