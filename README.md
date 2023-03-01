@@ -8,9 +8,9 @@ Eagerly looking to dive into the tech world 🌐
 
 * Database (database modeling, MySQL ...)
 
-* Currently learning relational database (postgreSQL), Java 🐧
+* Currently learning relational database (postgreSQL) and Java 
 
-Already give a try to c++, pascal and python 👨‍💻 (and hope to continue studying)
+* Also Learning python for datascience 💻
  
 Let's have some :mate:!
 
