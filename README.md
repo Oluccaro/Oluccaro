@@ -13,3 +13,8 @@ Let's have some :mate:!
 <div id="header" align="center">
   <img src="https://media4.giphy.com/media/26n7b7PjSOZJwVCmY/giphy.gif?cid=ecf05e479lspikxcz7im0t3ecps62wi3ww0shhf6hjc190gd&rid=giphy.gif&ct=g" width="200"/>
 </div>
+
+<div id="header" align="center">
+  <img src="https://github.githubassets.com/images/mona-loading-default.gif" width="200"/>
+</div>
+
