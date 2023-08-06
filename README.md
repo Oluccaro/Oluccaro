@@ -1,16 +1,12 @@
 # Hello, Everyone!
 
-Physics graduate that recently found out it's passion for coding 💻
+Physics graduate that found out it's passion for coding 💻
 
-Eagerly looking to dive into the tech world 🌐 
+Love learning new things and solving problems 🌐 
 
-* Full Stack web Development (PHP, JavaScript, Html, Css...)
+* I have experience working with fullstack web-development usgin PHP, Oracle PLSQL, HTML, CSS, Javascript...
 
-* Database (database modeling, MySQL ...)
-
-* Currently learning relational database (postgreSQL) and Java 
-
-* Also Learning python for datascience 💻
+* Studying software Development and Analysis. Currently Learning Angular, SpringBoot and PostgreSQL
  
 Let's have some :mate:!
 
