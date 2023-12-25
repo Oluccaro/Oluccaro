@@ -4,9 +4,15 @@ Physics graduate that found out it's passion for coding 💻
 
 Love learning new things and solving problems 🌐 
 
-* I have experience working with fullstack web-development usgin PHP, Oracle PLSQL, HTML, CSS, Javascript...
+* I have experience working with fullstack web development using PHP, Oracle PLSQL, HTML, CSS, Javascript...
 
-* Studying software Development and Analysis. Currently Learning Angular, SpringBoot and PostgreSQL
+* I have made projects in the Java Spring Ecosystem.
+
+* Made RESTful APIs using SpringBoot, SpringData JPA, and MySQL database.
+ 
+* Created a front-end for these projects using Angular with boostrap. 
+
+* Studying software Development and Analysis. Currently diving into microservices architecture. 
  
 Let's have some :mate:!
 
