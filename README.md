@@ -1,8 +1,6 @@
 # Hello, Everyone!
 
-Physics graduate that found out it's passion for coding 💻
-
-Love learning new things and solving problems 🌐 
+Physics graduate. Student of Software Development and Analysis 💻
 
 * I have experience working with fullstack web development using PHP, Oracle PLSQL, HTML, CSS, Javascript...
 
