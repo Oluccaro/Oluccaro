@@ -8,9 +8,11 @@ Physics graduate. Student of Software Development and Analysis 💻
 
 * Made RESTful APIs using SpringBoot, SpringData JPA, and MySQL database.
  
-* Created a front-end for these projects using Angular with boostrap. 
+* Created a front-end for these projects using Angular with boostrap.
 
-* Studying software Development and Analysis. Currently diving into microservices architecture. 
+* Made projects in C that uses different data structures.
+
+* Currently diving into microservices architecture. 
  
 Let's have some :mate:!
 
