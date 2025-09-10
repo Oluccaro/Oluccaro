@@ -1,12 +1,20 @@
-# Hello, Everyone!
+# 👋 Hey there!  
 
-Physics graduate. Software Developer 💻
+**Physics graduate. Software Developer 💻**  
 
-* I have experience working with fullstack web development using PHP, Oracle PLSQL, Javascript and Java.
+I build robust, scalable, and intelligent systems — from payment platforms reaching thousands of users worldwide to multi-agent AI architectures powering domain-specific chatbots.  
 
-* I'm interested in software development and architecture.
+## 🛠️ Tech Stack  
 
-Let's have some :coffee:!
+- **Languages & Frameworks**: Python, Java, JavaScript, PHP, Oracle PL/SQL  
+- **AI & Data**: Multi-Agent Systems, RAG, LangGraph, pandas 
+- **Cloud & DevOps**: AWS (ECS, RDS, ELB, ECR), Azure DevOps, Github Actions, Docker, Kafka
+- **Databases**: PostgreSQL, MySQL, Oracle, MongoDB
+- **Other**: Software Architecture, Payment Gateways, Secure Authentication, System Monitoring  
+
+---
+
+Let's have some 🧉!
 
 
 <div id="header" align="center">
